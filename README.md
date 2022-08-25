@@ -16,6 +16,13 @@ Note : Jika versi flutter teman-teman sudah sama maka tidak perlu menginstall fv
 3. Flutter
 4. GitLens (Bisa digunakan untuk melihat siapa yang melakukan commit per barisnya)
 
+## Before Start Server
+
+1. Delete Folder .fvm
+2. Install PUB fvm nya di terminal 'dart pub global activate fvm'
+3. update fvm ke 2.10.3 'fvm install 2.10.3' -> 'fvm use 2.10.3'
+4. cek fvm version 'fvm list'
+
 ## Start Server
 
 ### Mobile
