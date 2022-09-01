@@ -26,25 +26,28 @@ Note : Jika versi flutter teman-teman sudah sama maka tidak perlu menginstall fv
 ## Start Server
 
 ### Mobile
+
 ```sh
 # without fvm
 flutter run
 ```
+
 ```sh
 # with fvm
 fvm flutter run
 ```
 
 ### Web
+
 ```sh
 # without fvm
 flutter run -d <browser use>
 ```
+
 ```sh
 # with fvm
 fvm flutter run -d <browser use>
 ```
-
 
 ## Build APK & ABB & WEB
 
@@ -52,14 +55,17 @@ fvm flutter run -d <browser use>
 # for mobile (.apk)
 fvm flutter build apk 
 ```
+
 ```sh
 # for mobile (.aab)
 fvm flutter build appbundle 
 ```
+
 ```sh
 # for web
 fvm flutter build web 
 ```
-## API : https://rapidapi.com/
-Link API : https://yummly2.p.rapidapi.com/feeds/list
-```
+
+## API : <https://rapidapi.com/>
+
+Link API : <https://yummly2.p.rapidapi.com/feeds/list>
